@@ -1,5 +1,5 @@
 ---
-title: Template homepage
+title: Homepage
 author: Ewen Broudin-Caradec
 shortbio: Master Student in computer science
 description-meta: Master Student
